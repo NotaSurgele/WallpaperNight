@@ -28,6 +28,7 @@ if __name__ == '__main__':
     while True:
         if datetime.now().hour < 18 and datetime.now().hour > 8:
             setwallpaper(light, plugin='org.kde.image')
+            time.sleep(230)
         else:
             setwallpaper(dark, plugin='org.kde.image')
-    time.sleep(3600)
+            time.sleep(230)
