@@ -21,5 +21,5 @@ time.sleep(nb) stop the program for nb seconds..
 
 And then just execute the program:
 ```
-./kwallpaperswap.py || python kwallpaperswap.py
+./WallpaperNight.py || python WallpaperNight.py
 ```
