@@ -1,4 +1,4 @@
-# Kwallpaperswap
+# WallpaperNight
 Change the wallpaper automatically, depending on the hour. So you can swap between lighter and darker wallpaper
 
 ## How to use it ?
